@@ -1,0 +1,15 @@
+:root {
+  --primary: #2563EB;  /* Blue */
+  --secondary: #F59E0B; /* Amber */
+  --success: #F59E0B;
+  --error: #EF4444;
+  --bg: #f9fafb;
+  --surface: #ffffff;
+  --text-color: #111827;
+}
+
+[data-theme="dark"] {
+  --bg: #0b1220;
+  --surface: #0f172a;
+  --text-color: #e5e7eb;
+}
